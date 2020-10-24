@@ -14,3 +14,7 @@ authed_session = AuthorizedSession(credentials)
 
 # print the token
 print(credentials.token)
+
+# call main
+if __name__ == '__main__':
+    main()
